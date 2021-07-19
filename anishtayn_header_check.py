@@ -14,3 +14,4 @@ for item in header_items_list:
 		header_dict.update({item:'False'})
 print(Fore.YELLOW + "Header Check\n")
 print(header_dict)
+input()
